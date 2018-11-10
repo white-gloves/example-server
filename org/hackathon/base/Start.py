@@ -10,7 +10,7 @@ class myHandler(BaseHTTPRequestHandler):
 
     #Handler for the GET requests
     def do_GET(self):
-        if self.path=="/":
+        if self.path=="/capabilities/shoes":
             self.path="/capabilities_results.json"
 
         try:
