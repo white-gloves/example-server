@@ -1,1 +1,1 @@
-{"capabilities" : ["size", "color", "name"]}
+{"capabilities" : ["color", "size", "name", "dob", "cc"]}
